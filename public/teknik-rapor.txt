@@ -1,0 +1,15 @@
+GreenGen | Akıllı Filtre Doygunluk Takip Sistemi
+Teknik Rapor v1.0 - Hackathon 2026
+
+Bu rapor, Manisa OSB ve Türkiye limanları için geliştirilen saç filtre teknolojisi ve IoT tabanlı takip sisteminin teknik mimarisini içermektedir.
+
+İçindekiler:
+1. Giriş ve Vizyon
+2. Saç Filtre Materyal Bilimi
+3. IoT ve Sensör Entegrasyonu
+4. Apache Kafka Veri Akış Mimarisi
+5. AI Destekli Doygunluk Tahminleme
+6. Yeşil Etki ve Sürdürülebilirlik Analizi
+
+--- 
+Hackathon 2026 Favori Projesi
